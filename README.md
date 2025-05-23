@@ -1,3 +1,7 @@
+
+### 📷 Dashboard Preview
+
+![Dashboard Preview](healthcare.png)
 # 📊 Healthcare Revenue Cycle Management Dashboard
 
 This project presents an interactive **Power BI Dashboard** that analyzes the financial and operational performance of the **Healthcare Revenue Cycle**, helping stakeholders monitor and improve **claim processing efficiency, revenue, and collection timelines**.
@@ -79,9 +83,6 @@ View the live interactive dashboard here:
 
 ---
 
-### 📷 Dashboard Preview
-
-![Dashboard Preview](healthcare.png)
 
 ---
 
