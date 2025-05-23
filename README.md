@@ -81,7 +81,7 @@ View the live interactive dashboard here:
 
 ### 📷 Dashboard Preview
 
-![Dashboard Preview](assets/dashboard-preview.png)
+![Dashboard Preview](healthcare.png)
 
 ---
 
